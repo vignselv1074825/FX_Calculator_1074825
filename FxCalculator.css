@@ -1,0 +1,22 @@
+.form-control {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+
+}
+
+.Fx-Calculator {
+    margin: auto;
+    width: 50%;
+    margin-top: 100px;
+}
+
+.Converting-Unit-Container {
+    margin-left: 14px;
+}
+
+.Buttons-Container,
+.Converted-Value-Result,
+.form-group {
+    text-align: center;
+}
